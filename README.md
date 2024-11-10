@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhirup Nandi
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and DSA
 - 🌱 I’m currently learning C++ and full stack web development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 email- abhirupn2004@gmail.com 
