@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhirup Nandu
+- 👋 Hi, I’m @Abhirup Nandi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++ and full stack web development
 - 💞️ I’m looking to collaborate on open source projects
